@@ -1,0 +1,96 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing:  border-box;    
+}
+body{
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+}
+div#cabezera{    
+        color: #ffffff;
+        border: none;
+        padding: 20px 100% 20px 100%;
+  
+}
+div#logoblancosup{
+    float: left;
+    margin-left: 9px;
+    margin-top: 6px
+}
+div#bk{
+    font-size: 25px;
+    text-align: center;
+    color:#ffffff;
+}
+#menuhorizontal{
+        background-color:#000000;
+        color:#ffffff;
+        list-style-type:none;
+        font-weight:bold;
+        word-spacing: 55px; 
+}
+div#menu{
+    padding-bottom: 9px;
+    padding-left: 80%;
+    font-size: 20px;
+}
+a:link{
+    color: #ffffff;
+    text-decoration: none
+}
+a:visited{
+    color: #ffffff;
+}
+a:hover{
+    color: darkgrey;
+}
+a:active{
+    color: #ffffff;
+}
+/* Cuerpo */
+
+h2{
+    margin-left: 1200px;
+    margin-top: 100px;
+    color: black
+       
+}
+  div#foto-f{
+      float: left;
+      margin-right: 300px;
+      margin-left: 600px;
+      margin-bottom: 500px;
+      margin-top: 60px;
+   border:1em solid black
+       
+}
+    
+div#textos, p{
+    margin-right: 300px;
+    margin-left: 100px;
+    margin-bottom: 140px;
+    margin-top: 10px;
+    color: darkgray;
+}
+   
+
+
+div#enlaces2{
+    
+    padding-bottom: 90px;
+    background: #000000
+}
+h5{
+ 
+color: grey;
+    font-weight: normal;
+ 
+ 
+}
+div#redes{
+     float: right;
+ word-spacing: 55px;
+    font-weight: bold;
+    margin-right: 40px
+}

@@ -1,0 +1,97 @@
+* {
+margin: 0;
+padding: 0;
+box-sizing:  border-box;    
+}
+body{
+    text-decoration: none;
+    font-family:'Roboto', sans-serif;
+    background: #ffffff
+}
+div#cabezera{    
+        color: #ffffff;
+        border: none;
+        padding: 20px 100% 20px 100%;
+        background: #000000;    
+}
+div#logoblancosup{
+    float: left;
+    margin-left: 9px;
+    margin-top: 6px
+}
+div#bk{
+    font-size: 25px;
+    text-align: center;
+    color:#ffffff;     
+}
+#menuhorizontal{
+        background-color:#000000;
+        color:#ffffff;
+        list-style-type:none;
+        font-weight:bold;
+        word-spacing: 55px; 
+}
+div#menu{
+    padding-bottom: 9px;
+    padding-left: 80%;
+    font-size: 20px;
+}
+a:link{
+    color: #ffffff;
+    text-decoration: none
+}
+a:visited{
+    color: #ffffff;
+}
+a:hover{
+    color: darkgrey;
+}
+a:active{
+    color: #ffffff;
+}
+div#collage1{
+    display: flex;
+    width:100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-basis: auto; 
+}
+div#collage1, article{
+    margin: 10px;
+   
+}
+div#iluatraciones, p{
+    list-style-type:none;
+    color: darkgrey;
+    font-weight: normal;
+    text-align: center
+}
+div#ilustraciones, h3{
+   text-align: center;
+   margin: 10px
+}
+div#collage2{
+    display: flex;
+    width:100%;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-basis: auto;
+}
+div#collage2, article{
+    margin: 10px;
+}
+div#enlaces2{
+    padding-bottom: 40px;
+    background: #000000
+}
+div#enlaces2, h5{
+color: grey;
+    font-weight: normal;
+  padding-left: 10px;
+}
+div#redes{
+     float: right;
+     word-spacing: 55px;
+     font-weight: bold;
+     margin-right: 40px
+}
